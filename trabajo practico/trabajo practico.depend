@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1504310527 source:c:\users\lucas\desktop\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504311039 source:c:\users\lucas\desktop\trabajo practico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504310300 c:\users\lucas\desktop\trabajo practico\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1504792660 source:f:\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<conio.h>
+
+1504792428 f:\trabajo practico\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1504792962 source:f:\trabajo practico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504896706 source:g:\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<conio.h>
+
+1504896208 g:\trabajo practico\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1504896208 source:g:\trabajo practico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504532552 source:e:\trabajo practico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504532246 e:\trabajo practico\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1504532552 source:e:\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<conio.h>
+
